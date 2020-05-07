@@ -1,0 +1,6 @@
+{
+    "EPOCHS": 15,
+    "DATA_FOLDER": "/home/pszulc/dev/dnn01/data/",
+    "MODEL_ROOT": "/home/pszulc/dev/dnn01/data_models",
+    "PLOTS_FOLDER": "/home/pszulc/dev/dnn01/plots"
+}

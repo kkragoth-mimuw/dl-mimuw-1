@@ -1,0 +1,1 @@
+srun --qos=student --partition=common --gres=gpu:1 --constraint=homedir python3 -u main.py
