@@ -1,5 +1,11 @@
 Piotr Szulc
 
+# Post Mortem - comments by tutor
+
+* Use global pooling instead of view (better results)
+* MaxPool -> MaxPool -> MaxPool -> MaxPool: bad idea, network overfits. calculate resolutions
+* Preserve BatchSize/LearningRate Ratio 
+
 # Task 1
 
 * Found errors in train dataset (like another actor from same show)
